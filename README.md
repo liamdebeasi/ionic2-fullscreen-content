@@ -1,3 +1,5 @@
+Code for Ionic 2 bug report: https://github.com/driftyco/ionic/issues/10675
+
 **Steps to reproduce:**
 
 1. Clone repo and run 

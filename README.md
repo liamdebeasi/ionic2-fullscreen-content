@@ -1,5 +1,4 @@
 **Steps to reproduce:**
-I have created a GitHub repo showcasing the bug here: https://github.com/liamdebeasi/ionic2-fullscreen-content
 
 1. Clone repo and run 
 ```

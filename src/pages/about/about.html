@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      About
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <h2>Hello World</h2>
+    
+    <ion-list *ngFor="let i of items">
+        <ion-item>
+            Item #{{i}}
+        </ion-item>
+        <button (click)="push()" ion-button>Push Contact Page</button>
+    </ion-list>
+</ion-content>
